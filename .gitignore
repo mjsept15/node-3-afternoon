@@ -1,0 +1,4 @@
+node_modules
+.env
+
+CONNECTION_STRING=postgres://gwcdlpaoiytibw:22744f71d8b94ee1165c5c3effc4273a90faed7f5b091d1f930613cdbe640ea7@ec2-184-73-210-189.compute-1.amazonaws.com:5432/d16tmm0nv3seo8?ssl=true
